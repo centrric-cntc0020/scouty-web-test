@@ -78692,7 +78692,7 @@ grV(){return 1}}
 A.Lx.prototype={
 G(a){var s=null,r=A.at2(B.aG,s,s,s,s,s,s).RG,q=A.fZ(r.a),p=A.fZ(r.b),o=A.fZ(r.c),n=A.fZ(r.d),m=A.fZ(r.e),l=A.fZ(r.f),k=A.fZ(r.r),j=A.fZ(r.w),i=A.fZ(r.x)
 i=A.at2(s,B.zE,B.X,B.iO,B.X,A.at0(A.fZ(r.y),A.fZ(r.z),A.fZ(r.Q),q,p,o,n,m,l,A.fZ(r.as),A.fZ(r.at),A.fZ(r.ax),k,j,i),s)
-return new A.z1($.iK(),"/",A.aPd(),new A.a7J(),"Flutter Demo",i,!1,s)}}
+return new A.z1($.iK(),"/",A.aPd(),new A.a7J(),"Scouty Hyde",i,!1,s)}}
 A.a7J.prototype={
 $2(a,b){var s=null
 return new A.Bx(A.lp(new A.a7I(b),s,"loginPage",s,s,t.pa),A.a([B.N_,B.N2,B.MZ,B.N0],t.a3),s,s,480,s,s,!0,1,!1,s,s,s,s,s,s,s,s,!1,B.mS,!1,s)},
